@@ -1,0 +1,12 @@
+
+z	java:S135@"YReduce the total number of break and continue statements in this loop to use at most one.(àÎÙóÿÿÿÿÿ8ÙŠ– ’2
+‚
+java:S14886"`Immediately return this expression instead of assigning it to the temporary variable "baseName".(®¼Å‚øÿÿÿÿ8ÙŠ– ’2
+{
+java:S1104"YMake srcFolderPath a static final constant or non-public and provide accessors if needed.(ÌµîÙúÿÿÿÿ8ÙŠ– ’2
+U
+java:S1444"3Make this "public static srcFolderPath" field final(ÌµîÙúÿÿÿÿ8ÚŠ– ’2
+Ë
+java:S1598"­This file "ImageOrganizer.java" should be located in "org\exmaple\organizer" directory, not in "C:\Github\my-tools\image-organizer\ImageOrganizer\src\main\java\org\example".(­Üû…8ô®– ’2
+V
+java:S2864_"4Iterate over the "entrySet" instead of the "keySet".(ÁÕ‹¸ıÿÿÿÿ8øŠ– ’2
