@@ -11,15 +11,15 @@ import java.util.Set;
 
 public class ImageOrganizer {
   
-  public static String srcFolderPath = "C:\\Users\\I558153\\Downloads\\img-test";
+  public static String srcFolderPath;
   
   public static void main(String[] args) {
-//    if (args[0] == null) {
-//      System.out.println("Source folder path is required.");
-//      return;
-//    }
-//
-//    srcFolderPath = args[0];
+    if (args[0] == null) {
+      System.out.println("Source folder path is required.");
+      return;
+    }
+
+    srcFolderPath = args[0];
     
     try {
       work(srcFolderPath);
